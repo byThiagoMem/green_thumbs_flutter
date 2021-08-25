@@ -2,10 +2,10 @@ import 'dart:io';
 
 import 'package:awesome_notifications/awesome_notifications.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_awesome_notifications_tutorial/notifications.dart';
-import 'package:flutter_awesome_notifications_tutorial/plant_stats_page.dart';
-import 'package:flutter_awesome_notifications_tutorial/utilities.dart';
-import 'package:flutter_awesome_notifications_tutorial/widgets.dart';
+import 'package:flutter_awesome_notifications_tutorial/notifications/notifications.dart';
+import 'package:flutter_awesome_notifications_tutorial/pages/plant_stats_page.dart';
+import 'package:flutter_awesome_notifications_tutorial/utils/utilities.dart';
+import 'package:flutter_awesome_notifications_tutorial/widgets/widgets.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);

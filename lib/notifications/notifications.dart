@@ -1,5 +1,5 @@
 import 'package:awesome_notifications/awesome_notifications.dart';
-import 'package:flutter_awesome_notifications_tutorial/utilities.dart';
+import 'package:flutter_awesome_notifications_tutorial/utils/utilities.dart';
 
 //Função para criar uma notificação sobre clique
 Future<void> createPlantFoodNotification() async {
